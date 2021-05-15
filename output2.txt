@@ -1,0 +1,30 @@
+
+CHAIR found at 
+( 11 , 9 )  , ( 7 , 9 )
+
+DIAGNOL found at 
+( 2 , 14 )  , ( 8 , 14 )
+
+HARDWARE found at 
+( 0 , 13 )  , ( 7 , 13 )
+
+HORIZONTAL found at 
+( 12 , 0 )  , ( 12 , 9 )
+
+JAVA found at 
+( 7 , 12 )  , ( 4 , 9 )
+
+JPEG found at 
+( 1 , 5 )  , ( 1 , 8 )
+
+LAPTOP found at 
+( 0 , 14 )  , ( 5 , 9 )
+
+PHONE found at 
+( 4 , 8 )  , ( 0 , 12 )
+
+USB found at 
+( 1 , 10 )  , ( 3 , 12 )
+
+VERTICAL found at 
+( 0 , 3 )  , ( 7 , 10 )

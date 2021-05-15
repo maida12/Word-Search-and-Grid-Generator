@@ -1,0 +1,9 @@
+find
+random
+slueth
+backword
+vertical
+diagnol
+wikipedia
+horizontal
+wordsearch
